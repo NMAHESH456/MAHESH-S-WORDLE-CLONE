@@ -1,0 +1,3 @@
+Download the file and extract all the files.
+Run the application.html file in any suitable browser.
+Enjoy the wordle game.............
