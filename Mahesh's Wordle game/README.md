@@ -8,4 +8,4 @@ to get the list of 5 letter words
 I have created this application in the language HTML, CSS, JavaScript. I have provided a user interface for playing this game. 
 
 Enjoy the wordle game.............
- here is the link for the wordle game which i developed  NMAHESH456.github.io/Mahesh's Wordle game/application.html
+ here is the link for the wordle game which i developed  <a href ="https://NMAHESH456.github.io/Mahesh's Wordle game/application.html">
